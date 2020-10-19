@@ -1,15 +1,15 @@
 <template>
     <div class="nav">
         <ul>
-            <router-link to="/film/comingsoon" tag="li" active-class="active">
-                <span>即将上线</span>
-            </router-link>
 
             <router-link to="/film/noplaying" tag="li" active-class="active">
                 <span>正在热映</span>
             </router-link>
-
             
+            <router-link to="/film/comingsoon" tag="li" active-class="active">
+                <span>即将上线</span>
+            </router-link>
+
         </ul>
     </div>
 </template>

@@ -7,12 +7,12 @@
             </router-link>
 
             <router-link to="/cinema" active-class="active" tag="li">
-                <i class="iconfont icondianying"></i>
+                <i class="iconfont iconyingyuan"></i>
                 <p>影院</p>
             </router-link>
 
             <router-link to="/center" active-class="active" tag="li">
-                <i class="iconfont icondianying"></i>
+                <i class="iconfont icongeren"></i>
                 <p>个人中心</p>
             </router-link>
         </ul>
